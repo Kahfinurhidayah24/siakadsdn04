@@ -1,0 +1,6 @@
+{
+  "name": "SIAKAD SDN Lubang Buaya 04 Pagi",
+  "description": "Sistem Informasi Akademik SDN Lubang Buaya 04 Pagi (NPSN 20104241) Jakarta Timur - Platform administrasi sekolah resmi, data 18 rombel, 573 siswa, nilai, e-rapor, absensi, jadwal, dan autentikasi multi-role.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
